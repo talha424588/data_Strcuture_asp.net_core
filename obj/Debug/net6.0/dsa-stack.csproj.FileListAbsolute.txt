@@ -30,3 +30,4 @@ C:\Users\Geekybugs\source\repos\dsa-stack\obj\Debug\net6.0\refint\dsa-stack.dll
 C:\Users\Geekybugs\source\repos\dsa-stack\obj\Debug\net6.0\dsa-stack.pdb
 C:\Users\Geekybugs\source\repos\dsa-stack\obj\Debug\net6.0\dsa-stack.genruntimeconfig.cache
 C:\Users\Geekybugs\source\repos\dsa-stack\obj\Debug\net6.0\ref\dsa-stack.dll
+C:\Users\Geekybugs\source\repos\dsa-stack\obj\Debug\net6.0\dsa-stack.sourcelink.json
