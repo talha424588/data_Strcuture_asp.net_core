@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WpeV38FY3Je2uUim774quNgkQe5bb9B1sw5XDKSky74=",
+  "Source": "dsa-stack",
+  "BasePath": "_content/dsa-stack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
